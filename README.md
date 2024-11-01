@@ -2,8 +2,10 @@
 🚀 **INTRODUCTION**
 
 This is a basic random image and GIF API using PHP, which helps manage images for practical projects as needed.  
+
+  
 **Returned result**  
-<img src="[https://example.com/logo.png](https://github.com/vinkay215/Random-Image-API/blob/main/img.png?raw=true)"/>  
+<img src="https://github.com/vinkay215/Random-Image-API/blob/main/img.png"/>  
 
 
 **Author**: VinKay
